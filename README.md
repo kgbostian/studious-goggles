@@ -1,2 +1,2 @@
 # studious-goggles
-Node Discord Bot that may or may not do anything.
+Work towards creating overlay material for my twitch channel.
