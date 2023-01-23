@@ -105,5 +105,8 @@ dist
 
 
 
-donotshare
+donotshare.sh
 env/
+.venv/
+package-lock.json
+getCreds.sh
